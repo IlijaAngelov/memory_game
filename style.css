@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    align-items: center; 
+    align-content: center;
+}
+.grid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+    border: 0.5px dotted teal;
+}
